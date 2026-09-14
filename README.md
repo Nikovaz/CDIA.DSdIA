@@ -43,7 +43,7 @@ Desarrollo de Sistemas de Inteligencia Artificial es una asignatura orientada a 
 
 ### 📓 TP 04: Control de Versiones con Git y GitHub
 * **Bajada Descriptiva:** En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos. El objetivo fue comprender cómo gestionar proyectos de manera colaborativa y mantener un historial organizado de los cambios realizados en el desarrollo de proyectos de ciencia de datos e inteligencia artificial.
-* 🔗 **Enlace:** [003-GitGithub/TP03_GitGitHub.ipynb](./003-GitGithub/TP03_GitGitHub.ipynb)
+* 🔗 **Enlace:** [004-GitGithub/TP04_GitGitHub.ipynb](./004-GitGithub/TP04_GitGitHub.ipynb)
 
 ### 📓 Trabajo Práctico Integrador (TPI)
 * **Bajada Descriptiva:** El Trabajo Práctico Integrador consiste en el desarrollo de un proyecto aplicado de análisis de datos e inteligencia artificial. A lo largo de la cursada, los estudiantes trabajarán en distintas etapas del proyecto, aplicando las herramientas y conceptos vistos en clase, desde la exploración inicial de los datos hasta la presentación final de resultados.
@@ -69,9 +69,8 @@ CDIA.DSdIA/
 ├── 📁 003-PythonLibrerias/
 │   ├── 📓 TP03_PythonLibrerias.ipynb
 │   └── 📄 README.md
-├── 📁 003-GitGithub/
-│   ├── 📓 TP03_GitGitHub.ipynb
-│   ├── 📓 TP03_PythonLibrerias.ipynb
+├── 📁 004-GitGithub/
+│   ├── 📓 TP04_GitGitHub.ipynb
 │   └── 📄 README.md
 ├── 📁 TPI-EDA/
 │   ├── 📓 TPI_1entrega.ipynb
