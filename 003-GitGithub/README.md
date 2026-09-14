@@ -1,5 +1,6 @@
-# 📁 TP 03: Control de Versiones con Git y GitHub
+# 📁 TP 04: Control de Versiones con Git y GitHub
 
-En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos.
+Introducción al control de versiones en proyectos de Ciencia de Datos: repositorios, commits, ramas, sincronización remota y buenas prácticas con `.gitignore`.
 
-* **Notebook principal:** [`TP03_GitGitHub.ipynb`](./TP03_GitGitHub.ipynb)
+* **Notebook de Git & GitHub:** [`TP03_GitGitHub.ipynb`](./TP03_GitGitHub.ipynb)
+* **Notebook de Librerías:** [`TP03_PythonLibrerias.ipynb`](./TP03_PythonLibrerias.ipynb)
